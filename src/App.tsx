@@ -105,8 +105,8 @@ export default function App() {
           animate={{ y: 0, opacity: 1 }}
           className="text-center mb-8"
         >
-          <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-yellow-500 mb-2 drop-shadow-lg tracking-tight">
-            THRin
+          <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-yellow-500 mb-2 drop-shadow-lg tracking-tight">
+            Spin THR
           </h1>
           <p className="text-emerald-100 text-sm font-medium bg-black/20 px-4 py-1 rounded-full backdrop-blur-sm inline-block">
             Uji ketangkasanmu, stop di nominal terbesar!
