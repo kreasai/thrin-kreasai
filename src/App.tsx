@@ -350,6 +350,13 @@ export default function App() {
           )}
         </AnimatePresence>
       </div>
+
+      {/* Footer Credit */}
+      <div className="absolute bottom-4 left-0 right-0 text-center z-10">
+        <p className="text-emerald-100/60 text-xs font-medium tracking-wider">
+          Games by <a href="https://kreasai.com" target="_blank" rel="noopener noreferrer" className="hover:text-yellow-400 transition-colors">KREASAI.COM</a>
+        </p>
+      </div>
     </div>
   );
 }
